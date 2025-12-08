@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53ef7ad4-dd1c-486d-bbb2-b3b0fd9e6088" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Advent_of_Code2025.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-    </list>
+    <list default="true" id="53ef7ad4-dd1c-486d-bbb2-b3b0fd9e6088" name="Changes" comment="Init + Day 1, Day 1 Part Two done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "khpriv"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/khpriv/Advent_of_Code2025.git",
+    "accountId": "3edd13c2-a4c4-4036-a91a-71a467487e71"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -71,6 +73,27 @@
       <option name="presentableId" value="Default" />
       <updated>1765226959408</updated>
     </task>
+    <task id="LOCAL-00001" summary="Init + Day 1, Day 1 Part Two done">
+      <option name="closed" value="true" />
+      <created>1765231216821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765231216821</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Init + Day 1, Day 1 Part Two done">
+      <option name="closed" value="true" />
+      <created>1765231233261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765231233261</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init + Day 1, Day 1 Part Two done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init + Day 1, Day 1 Part Two done" />
   </component>
 </project>
